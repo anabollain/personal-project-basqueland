@@ -1,0 +1,43 @@
+@import '../core/variables';
+@import '../core/reset';
+@import '../core/functions';
+
+.main{
+    &__landing{
+        height: 75vh;
+        background-color: $color-dark;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        &--btn{
+            height: rem(220);
+            width: rem(220);
+            border-radius: 50%;
+        }
+    }
+}
+
+.footer{
+    &__landing{
+        height: 10vh;
+        background-color: $color-dark;
+        display: flex;
+        justify-content: flex-end;
+        padding-right: rem(20);
+        &--nav{
+            display: flex;
+            gap: rem(20);
+            &--link{
+                text-decoration: none;
+                width: rem(50);
+                height: rem(50);
+                border-radius: 50%;
+                background-color: $color-white;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+        }
+    }
+}

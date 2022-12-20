@@ -1,0 +1,17 @@
+@import '../core/variables';
+@import '../core/reset';
+
+.page{
+    &__header{
+        height: 15vh;
+        background-color: $color-dark;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        &--link{
+            color: $color-white;
+            text-decoration: none;
+            font-size: rem(20);
+        } 
+    }
+}

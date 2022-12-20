@@ -1,0 +1,22 @@
+@import '../core/variables';
+@import '../core/reset';
+@import '../core/functions';
+
+
+.char{
+    margin: rem(7);
+    height: fit-content;
+    padding-bottom: rem(10);
+    &__img{
+        border-radius: rem(10);
+        width: 100%;
+    }
+    &__text{
+        &--title{
+            font-size: rem(12);
+        }
+        &--subtitle{
+            font-size: rem(10);
+        }
+    }
+}

@@ -1,0 +1,9 @@
+.main__chars{
+    &--list{
+        list-style: none;
+        height: fit-content;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1.5fr 1.5fr;
+    }
+}

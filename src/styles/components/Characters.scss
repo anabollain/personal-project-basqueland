@@ -1,0 +1,9 @@
+@import '../core/variables';
+@import '../core/reset';
+@import '../core/functions';
+
+.main{
+    &__chars{
+        list-style: none;
+    }
+}

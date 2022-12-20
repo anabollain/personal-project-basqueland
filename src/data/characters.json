@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "name": "Tartalo",
+        "otherNames": ["Ttarttalo", "Torto", "Alarabi", "Anxo"],
+        "location": "Caves",
+        "origin": "Mythology",
+        "gender": "Male",
+        "partner": "Unknown",
+        "children": "Unknown",
+        "description": "Tartalo  is an enormously strong one-eyed giant very similar to the Greek Cyclops that Odysseus faced in Homer's Odyssey. He is said to live in caves in the mountains and catches young people in order to eat them; in some accounts he eats sheep also.",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmnrIukDTLRhp0LAdxmZ-mVtr2I-yoduqmxw&usqp=CAU"
+    },
+    {
+        "id": "2",
+        "name": "Basajaun",
+        "otherNames": ["Lord of the Woods"],
+        "location": "Woods",
+        "origin": "Mythology",
+        "gender": "Male",
+        "partner": "Basandere",
+        "children": "Unknown",
+        "description": "Basajaun is a huge, hairy hominid dwelling in the woods. They were thought to build megaliths, protect flocks of livestock, and teach skills such as agriculture and ironworking to humans.", 
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Basajaun_%28euskal_mitologia%29_-_Midjourney_AI_bertsioa.png/390px-Basajaun_%28euskal_mitologia%29_-_Midjourney_AI_bertsioa.png"
+    },
+    {
+        "id": "3",
+        "name": "Mari",
+        "otherNames": ["Anbotoko Mari", "Amalur", "Murumendiko Damaa"],
+        "location": "Caves",
+        "origin": "Mythology",
+        "gender": "Female",
+        "partner": "Sugaar",
+        "children": ["Mikelats", "Atarrabi"],
+        "description": "Mari is the goddess of the Basques. She is married to the god Sugaar (also known as Sugoi or Maju). Legends connect her to the weather: when she and Maju travel together hail will fall, her departures from her cave will be accompanied by storms or droughts, and which cave she lives in at different times will determine dry or wet weather: wet when she is in Anboto; dry when she is elsewhere (the details vary).", 
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mari_%28euskal_mitologia%29_-_Midjourney_AI_bertsioa.png/390px-Mari_%28euskal_mitologia%29_-_Midjourney_AI_bertsioa.png"
+    },
+    {
+        "id": "4",
+        "name": "Sorginak",
+        "otherNames": ["Belagile", " Sorsain"],
+        "location": "Caves",
+        "origin": "Mythology",
+        "gender": "Female",
+        "partner": "Unknown",
+        "children": "Unknown",
+        "description": "Sorginak are the assistants of the goddess Mari in Basque mythology. It is also the Basque name for witches, priests and priestesses. They are used to participate in Akelarre. These mysteries happened on Friday nights, when Mari and Sugaar are said to meet in the locally sacred cave to engender storms.", 
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sorgin_%28euskal_mitologia%29_-_Midjourney_AI_bertsioa.png/390px-Sorgin_%28euskal_mitologia%29_-_Midjourney_AI_bertsioa.png"
+    },
+    {
+        "id": "5",
+        "name": "Sorginak",
+        "otherNames": ["Belagile", " Sorsain"],
+        "location": "Caves",
+        "origin": "Mythology",
+        "gender": "Female",
+        "partner": "Unknown",
+        "children": "Unknown",
+        "description": "Sorginak are the assistants of the goddess Mari in Basque mythology. It is also the Basque name for witches, priests and priestesses. They are used to participate in Akelarre. These mysteries happened on Friday nights, when Mari and Sugaar are said to meet in the locally sacred cave to engender storms.", 
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sorgin_%28euskal_mitologia%29_-_Midjourney_AI_bertsioa.png/390px-Sorgin_%28euskal_mitologia%29_-_Midjourney_AI_bertsioa.png"
+    },
+    {
+        "id": "6",
+        "name": "Sorginak",
+        "otherNames": ["Belagile", " Sorsain"],
+        "location": "Caves",
+        "origin": "Mythology",
+        "gender": "Female",
+        "partner": "Unknown",
+        "children": "Unknown",
+        "description": "Sorginak are the assistants of the goddess Mari in Basque mythology. It is also the Basque name for witches, priests and priestesses. They are used to participate in Akelarre. These mysteries happened on Friday nights, when Mari and Sugaar are said to meet in the locally sacred cave to engender storms.", 
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sorgin_%28euskal_mitologia%29_-_Midjourney_AI_bertsioa.png/390px-Sorgin_%28euskal_mitologia%29_-_Midjourney_AI_bertsioa.png"
+    },
+    {
+        "id": "7",
+        "name": "Sorginak",
+        "otherNames": ["Belagile", " Sorsain"],
+        "location": "Caves",
+        "origin": "Mythology",
+        "gender": "Female",
+        "partner": "Unknown",
+        "children": "Unknown",
+        "description": "Sorginak are the assistants of the goddess Mari in Basque mythology. It is also the Basque name for witches, priests and priestesses. They are used to participate in Akelarre. These mysteries happened on Friday nights, when Mari and Sugaar are said to meet in the locally sacred cave to engender storms.", 
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sorgin_%28euskal_mitologia%29_-_Midjourney_AI_bertsioa.png/390px-Sorgin_%28euskal_mitologia%29_-_Midjourney_AI_bertsioa.png"
+    },
+    {
+        "id": "8",
+        "name": "Sorginak",
+        "otherNames": ["Belagile", " Sorsain"],
+        "location": "Caves",
+        "origin": "Mythology",
+        "gender": "Female",
+        "partner": "Unknown",
+        "children": "Unknown",
+        "description": "Sorginak are the assistants of the goddess Mari in Basque mythology. It is also the Basque name for witches, priests and priestesses. They are used to participate in Akelarre. These mysteries happened on Friday nights, when Mari and Sugaar are said to meet in the locally sacred cave to engender storms.", 
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sorgin_%28euskal_mitologia%29_-_Midjourney_AI_bertsioa.png/390px-Sorgin_%28euskal_mitologia%29_-_Midjourney_AI_bertsioa.png"
+    }
+]
